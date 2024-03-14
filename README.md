@@ -1,0 +1,2 @@
+# EdgeAutoSearch
+free bing points
